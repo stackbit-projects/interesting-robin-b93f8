@@ -9,7 +9,7 @@ import './index.css';
 
 const Header = ({ name, title, date }) => (
   <header>
-    <Link to="/1">
+    <Link to="Eric Szentivanyi">
       <span>{name}</span> — {title}
     </Link>
     <time>{date}</time>
