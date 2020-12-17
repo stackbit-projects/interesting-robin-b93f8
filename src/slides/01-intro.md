@@ -1,3 +1,6 @@
+---
+{}
+---
 # Gatsby Deck
 
 Create presentations using Gatsby & React.
@@ -20,6 +23,6 @@ Create presentations using Gatsby & React.
 
 Here's the source of the first slide:
 
-    # Gatsby Deck
+    # Eric Szentivanyi
 
     Create presentations using Gatsby & React.
